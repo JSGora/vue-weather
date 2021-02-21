@@ -19,8 +19,8 @@
         </div>
 
         <div class="weather-box">
-          <div class="temp">{{ Math.round(weather.main.temp) }}°f</div>
-          <div class="weather">{{ weather.weather[0].main}}</div>
+          <div class="temp">{{ Math.round(weather.main.temp) }}°f </div>
+          <div class="weather">{{ weather.weather[0].main}} </div>
         </div>
       </div>
     </main>
@@ -169,5 +169,4 @@ font-weight: 700;
 font-style: italic;
 text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
-
 </style>
