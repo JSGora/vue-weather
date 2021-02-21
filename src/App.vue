@@ -165,7 +165,7 @@ background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0,0,0,0.7
 .weather-box .weather{
 color: #fff;
 font-size: 48px;
-font-weight: 700;
+font-weight: 600;
 font-style: italic;
 text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
